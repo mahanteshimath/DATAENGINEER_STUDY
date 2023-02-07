@@ -1,5 +1,5 @@
 # MUTIPLE WAYS TO CONNECT TO SNOWPARK
-https://bit.ly/atozaboutdata  WATCH ALL METHODS
+WATCH ALL METHODS [CLICK](https://bit.ly/atozaboutdata)
 
 1ST WAY--JupyterLab
 Prerequisites for Snowpark Python
@@ -71,7 +71,7 @@ EMPLOYEE
 
 
 # 2ND  WAY CONNECT TO SNOWPARK--GOOGLE COLAB
-https://bit.ly/atozaboutdata  WATCH ALL METHODS
+WATCH ALL METHODS [CLICK](https://bit.ly/atozaboutdata)
 
 https://colab.research.google.com/drive/1_qVjFRPPH1YIPUsUrfdAWSotmMbAkTgT?usp=sharing
 
