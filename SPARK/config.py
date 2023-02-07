@@ -1,0 +1,9 @@
+snowflake_conn_prop={
+"account_name":"kl98250.ca-central-1.aws",
+"user":"learnatozaboutdata02",
+"password":"Learnatozaboutdata02@123#",
+"role":"ACCOUNTADMIN",
+"database":"YT",
+"schema":"SF_SQL",
+"warehouse":"COMPUTE_WH"
+}
